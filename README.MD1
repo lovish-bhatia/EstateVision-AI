@@ -1,0 +1,33 @@
+# EstateVision AI
+
+## Project Overview
+EstateVision AI is an AI-powered property visualization project designed to help users explore real estate properties through images and video.
+
+## Features
+- Real estate property visualization
+- Interior and exterior property images
+- Property video demonstration
+- AI-based property presentation
+
+## Technologies Used
+- Python
+- AI-based image processing
+- Visual content generation
+
+## Project Structure
+- Source Code
+- Images and Assets
+- Demo Video
+- README.md
+
+## How to Run
+1. Extract the project ZIP file.
+2. Open the project folder in VS Code.
+3. Install the required dependencies.
+4. Run the main Python file.
+
+## Demo
+The project demonstration video is provided separately.
+
+## Project Name
+EstateVision AI
